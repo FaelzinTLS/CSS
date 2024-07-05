@@ -1,0 +1,71 @@
+body {
+    background: url('pexels-frank-cone-140140-3607542.jpg');
+}
+ 
+#container {
+    display: block;
+    width: 80%;
+    padding: 15px;
+    margin: 0  auto;
+    border-radius: ;
+}
+ 
+header {
+    padding: 20px;
+    background-color: #003878;
+    border-radius: 40px;
+}
+ 
+nav {
+    padding: 20px;
+    background-color: #cd853f;
+    margin-top: 5px;
+}
+ 
+main {
+    width: 910px;
+    padding: 10px;
+    height: 500px;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 5px;
+    border-radius: 70px;
+}
+ 
+section {
+    width: 880px;
+    height: 200px;
+    background-color: #2f4f4f;
+    color: white;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+ 
+footer {
+    width:900px;
+    background-color: #003878;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 5px;
+    padding: 15px;
+    border-radius: 40px;
+
+}
+ 
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 25px;
+}
+a:hover {
+    text-decoration: none;
+    color: #003878;
+   
+}
+ 
+
+
