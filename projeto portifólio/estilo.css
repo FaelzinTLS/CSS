@@ -16,11 +16,6 @@ header {
     border-radius: 40px;
 }
  
-nav {
-    padding: 20px;
-    background-color: #cd853f;
-    margin-top: 5px;
-}
  
 main {
     width: 910px;
@@ -30,16 +25,9 @@ main {
     margin: 0 auto;
     margin-top: 5px;
     border-radius: 70px;
+    text-align: center;
 }
  
-section {
-    width: 880px;
-    height: 200px;
-    background-color: #2f4f4f;
-    color: white;
-    margin: 0 auto;
-    margin-top: 10px;
-}
  
 footer {
     width:900px;
@@ -60,12 +48,19 @@ a {
     font-weight: bold;
     padding: 5px;
     font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 a:hover {
     text-decoration: none;
     color: #003878;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    
 }
  
-
+img {
+    border-radius: 150px;
+    border-color: black;
+    border-style: outset;
+}
 
